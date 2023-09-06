@@ -1,6 +1,6 @@
 # Sobre mim
 
-projeto criado como revisão das estruturas do HTML.
+Projeto criado como revisão das estruturas do HTML.
 
 ### Status do projeto
 
